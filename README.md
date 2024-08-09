@@ -1,1 +1,2 @@
-# CS50AI
+# HarvardX: CS50's Introduction to Artificial Intelligence with Python
+https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python?index=product&queryID=20f255a72e55f01f6dbb7ba10089489d&position=1 
